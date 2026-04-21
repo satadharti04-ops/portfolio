@@ -13,7 +13,7 @@ This is my personal portfolio website where I showcase my projects and skills.
 - JavaScript
 
 ## 🔗 Live Demo
-https://yourusername.github.io/portfolio/
+https://satadharti04-ops.github.io/portfolio/
 
 ## 📬 Contact
 Feel free to reach out for freelance projects!
